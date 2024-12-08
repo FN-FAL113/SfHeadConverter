@@ -30,10 +30,10 @@ Go to a chunk with player heads then execute the command.
 
 ## Screenshot
 #### Before
-
+<img src="https://github.com/user-attachments/assets/5ad12cd9-dde4-47a3-9eef-a7ba035ddb66" width="80%"/>
 
 #### After
-
+<img src="https://github.com/user-attachments/assets/bbf5578e-758e-40e5-aff5-2ed0c9fb1fe9" width="80%"/>
 
 ### Slimefun and Addon community discord
 <p>
