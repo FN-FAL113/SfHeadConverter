@@ -1,0 +1,11 @@
+name: SfHeadConverter
+version: ${project.version}
+main: me.fnfal113.sfheadconverter.SfHeadConverter
+api-version: 1.17
+authors: [ FN_FAL113 ]
+description: Convert SF heads in a chunk to normal blocks for performance improvement
+depend: [ Slimefun ]
+commands:
+  sfheadconverter:
+    description: execute this command to convert player heads to non-ticking vanilla blocks
+    usage: /<command> <sfHeadId> <reset | materialNames>
