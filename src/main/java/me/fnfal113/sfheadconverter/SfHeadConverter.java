@@ -43,7 +43,7 @@ public final class SfHeadConverter extends JavaPlugin implements SlimefunAddon {
 
     @Override
     public String getBugTrackerURL() {
-        return "";
+        return "https://github.com/FN-FAL113/SfHeadConverter/issues";
     }
 
     private static void setInstance(SfHeadConverter ins) {
