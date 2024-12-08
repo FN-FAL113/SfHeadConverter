@@ -11,7 +11,7 @@ A client side optimization addon by converting slimefun block player heads to va
 
 ## Supported Player Heads
 
-The following are the player heads that can be converted to normal blocks
+The following are the player heads that can be converted to normal blocks, open for [suggestions](https://github.com/FN-FAL113/SfHeadConverter/issues).
 
 - CARGO_NODE
 - CARGO_NODE_INPUT
