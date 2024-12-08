@@ -2,8 +2,8 @@
 
 <div align="center">
 
-![bStats Servers](https://img.shields.io/bstats/servers/13713)
-![bStats Players](https://img.shields.io/bstats/players/13713)
+![bStats Servers](https://img.shields.io/bstats/servers/24102)
+![bStats Players](https://img.shields.io/bstats/players/24102)
 
 </div>
 
