@@ -7,7 +7,7 @@
 
 </div>
 
-A client side optimization addon by converting slimefun block player heads to vanilla non-tile block entities in a chunk which improves performance on large base setups. 
+A client/server side optimization addon by converting slimefun block player heads to vanilla non-tile block entities in a chunk which improves performance on large base setups. 
 
 ## Supported Player Heads
 
